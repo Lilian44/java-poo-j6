@@ -65,7 +65,6 @@ public class RechercheRegionsPlusPeuplees extends MenuService {
 			Region region = regions.get(i);
 			System.out.println("Region " + region.getNom() + " : " + region.getPopulation() + " habitants.");
 		}
-
 	}
 
 }
